@@ -1,0 +1,47 @@
+[
+  {
+    "coffeName": "COLD BREW COFFEE",
+    "coffeRepice": "Cold Brew Coffee is a smooth, cold beverage prepared by brewing freshly ground coffee in cold water. In the Cold Brew process, time makes up for heat.",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/coffeetest-7ec6e.appspot.com/o/coldbrew.jpg?alt=media&token=8128d53c-910e-4072-a35f-2de16d441e77"
+  },
+  {
+    "coffeName": "ESPRESSO",
+    "coffeRepice": "A short, strong drink (about 30 ml) served in an espresso cup.",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/coffeetest-7ec6e.appspot.com/o/esprresso.jpg?alt=media&token=4673c8aa-995a-47ad-ac8c-e40938d4009a"
+  },
+  {
+    "coffeName": "DRİP COFFEE",
+    "coffeRepice": "A short, strong drink (about 30 ml) served in an espresso cup.",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/coffeetest-7ec6e.appspot.com/o/dripcoffee.jpg?alt=media&token=18fe607c-b501-4163-b99f-0ce2d06ab447"
+  },
+  {
+    "coffeName": "IRISH COFFEE",
+    "coffeRepice": "Classic coffee coctail where Irish whiskey is mixed with filter coffee and topped with thin layer of gently whipped cream.",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/coffeetest-7ec6e.appspot.com/o/%C4%B1r%C4%B1shcoffe.jpg?alt=media&token=dd193c8b-12b0-4138-a053-98e42916d859"
+  },
+  {
+    "coffeName": "LATTE MACCHIATO",
+    "coffeRepice": "Like a traditional caffè latte, but with a thicker layer of foam. Often made by pouring an espresso last into the milk (drink size about 300 ml). Served in a latte glass.",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/coffeetest-7ec6e.appspot.com/o/latte.jpg?alt=media&token=49e69ef1-b153-4471-9155-907920850873"
+  },
+  {
+    "coffeName": "FRAPPÉ",
+    "coffeRepice": "Rich iced coffee made of espresso, milk and ice. Flavoured syrup can be added (about 300 ml). Mixed in a blender and served for example in a latte glass.",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/coffeetest-7ec6e.appspot.com/o/frappee.jpg?alt=media&token=8ec1e4e5-4225-40ad-9551-171487b159aa"
+  },
+  {
+    "coffeName": "CAFÈ AU LAIT",
+    "coffeRepice": "French morning coffee. Made by mixing dark roasted filter coffee (often prepared with French Press) and warm milk. Served in a bowl or a large coffee cup.",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/coffeetest-7ec6e.appspot.com/o/cafeaula%C4%B1t.jpg?alt=media&token=bd1a6aaf-0a6d-43b5-9eea-5a7f709f6b8b"
+  },
+  {
+    "coffeName": "ICED LATTE",
+    "coffeRepice": "Ice, cold milk and an espresso in a latte glass (about 300ml), often mixed with some sugar or flavoured syrup. Served in a latte glass.",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/coffeetest-7ec6e.appspot.com/o/icedlatte.jpg?alt=media&token=b920cbfe-3dff-4531-9b08-0316fe1d5dbf"
+  },
+  {
+    "coffeName": "ICEDE MOCHA",
+    "coffeRepice": "Cold Caffe mocha. Prepared like iced latte but garnished and flavoured like caffee mocha (about 300ml). Served in latte glass.",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/coffeetest-7ec6e.appspot.com/o/icedlatte.jpg?alt=media&token=b920cbfe-3dff-4531-9b08-0316fe1d5dbf"
+  }
+]
