@@ -1,0 +1,38 @@
+[
+  {
+    "id":1,
+    "name":"Gezi Rehberi",
+    "icon":"gezirehberi",
+    "bgColor":"#00000"
+  },
+  {
+    "id":2,
+    "name":"Şehir Rehberi",
+    "icon":"sehirrehberi",
+    "bgColor":"#00000"
+  },
+  {
+    "id":3,
+    "name":"Haberler",
+    "icon":"haberler",
+    "bgColor":"#00000"
+  },
+  {
+    "id":4,
+    "name":"Etkinlikler",
+    "icon":"etkinlikler",
+    "bgColor":"#00000"
+  },
+  {
+    "id":5,
+    "name":"Duyurular",
+    "icon":"duyurular",
+    "bgColor":"#00000"
+  },
+  {
+    "id":6,
+    "name":"Ayarlar",
+    "icon":"ayarlar",
+    "bgColor":"#00000"
+  }
+]
