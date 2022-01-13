@@ -3,36 +3,36 @@
     "id":1,
     "name":"Gezi Rehb.",
     "icon":"gezirehberi",
-    "bgColor":"#00000"
+    "bgColor":"#000000"
   },
   {
     "id":2,
     "name":"Şehir Rehb.",
     "icon":"sehirrehberi",
-    "bgColor":"#00000"
+    "bgColor":"#000000"
   },
   {
     "id":3,
     "name":"Haberler",
     "icon":"haberler",
-    "bgColor":"#00000"
+    "bgColor":"#000000"
   },
   {
     "id":4,
     "name":"Etkinlikler",
     "icon":"etkinlikler",
-    "bgColor":"#00000"
+    "bgColor":"#000000"
   },
   {
     "id":5,
     "name":"Duyurular",
     "icon":"duyurular",
-    "bgColor":"#00000"
+    "bgColor":"#000000"
   },
   {
     "id":6,
     "name":"Ayarlar",
     "icon":"ayarlar",
-    "bgColor":"#00000"
+    "bgColor":"#000000"
   }
 ]
