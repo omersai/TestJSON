@@ -1,13 +1,13 @@
 [
   {
     "id":1,
-    "name":"Gezi Rehberi",
+    "name":"Gezi Rehb.",
     "icon":"gezirehberi",
     "bgColor":"#00000"
   },
   {
     "id":2,
-    "name":"Şehir Rehberi",
+    "name":"Şehir Rehb.",
     "icon":"sehirrehberi",
     "bgColor":"#00000"
   },
