@@ -1,0 +1,30 @@
+[{
+  "id":0,
+  "title":"İstanbul Eyup Sultan Camii",
+  "description":"Gezi Rehberi",
+  "favorite":1
+},
+{
+  "id":1,
+  "title":"Ayasofya Yol Tarifi",
+  "description":"Şehir Rehberi",
+  "favorite":1
+},
+{
+  "id":2,
+  "title":"Yeni Kart Dönemi Başlıyor",
+  "description":"Duyurular",
+  "favorite":1
+},
+{
+  "id":3,
+  "title":"Kutlu Doğum Etkinliği",
+  "description":"Etkinlikler",
+  "favorite":1
+},
+{
+  "id":4,
+  "title":"Yeni Eğitim/Öğretim Yılı Başlıyor",
+  "description":"Haberler",
+  "favorite":0
+}]
