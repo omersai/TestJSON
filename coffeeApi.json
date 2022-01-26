@@ -1,5 +1,10 @@
 [
   {
+    "coffeName": "New Orleans Coffee (Cafe Noir)",
+    "coffeRepice": "New Orleans is known for plenty of unique and delicious foods, including its famous hot coffee. You make it with basic drip-ground coffee, plus chicory, a dried herb that gives this brew its signature chocolate-caramel flavor, intensely dark color, and thick consistency.",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/coffeetest-7ec6e.appspot.com/o/coldbrew.jpg?alt=media&token=8128d53c-910e-4072-a35f-2de16d441e77"
+  },
+  {
     "coffeName": "COLD BREW COFFEE",
     "coffeRepice": "Cold Brew Coffee is a smooth, cold beverage prepared by brewing freshly ground coffee in cold water. In the Cold Brew process, time makes up for heat.",
     "imageURL": "https://firebasestorage.googleapis.com/v0/b/coffeetest-7ec6e.appspot.com/o/coldbrew.jpg?alt=media&token=8128d53c-910e-4072-a35f-2de16d441e77"
