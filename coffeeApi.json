@@ -1,51 +1,106 @@
 [
   {
+    "coffeName": "Cafe Con Leche",
+    "coffeRepice": "Enjoy a coffee house experience at home with easy, Spanish-style cafe con leche. Translated as "coffee with milk," it is made with equal parts espresso and steamed milk, for a powerful morning beverage that will put pep in your step.",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/coffeetest-7ec6e.appspot.com/o/coldbrew.jpg?alt=media&token=8128d53c-910e-4072-a35f-2de16d441e77"
+  },
+  {
+    "coffeName": "Mexican Coffee",
+    "coffeRepice": "If you are a fan of mochas, you're sure to enjoy Mexican coffee. The sweet and spicy treat is an unbelievably delicious blend of strong, freshly roasted coffee, chocolate, cinnamon, and vanilla, and is only improved by a dollop of fluffy whipped cream on top.",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/coffeetest-7ec6e.appspot.com/o/coldbrew.jpg?alt=media&token=8128d53c-910e-4072-a35f-2de16d441e77"
+  },
+  {
+    "coffeName": "Vietnamese Egg Coffee",
+    "coffeRepice": "Turkish coffee has a well-deserved reputation for its wonderfully strong flavor. This classic recipe includes ground cardamom, but what makes all the difference is the fine grind of the coffee beans.",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/coffeetest-7ec6e.appspot.com/o/coldbrew.jpg?alt=media&token=8128d53c-910e-4072-a35f-2de16d441e77"
+  },
+  {
+    "coffeName": "Turkish Coffee",
+    "coffeRepice": "Vietnamese egg coffee is a uniquely sweet, custard-like hot coffee drink that has to be tasted to be believed. You only need three ingredients and no special equipment to make this velvety drink.",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/coffeetest-7ec6e.appspot.com/o/coldbrew.jpg?alt=media&token=8128d53c-910e-4072-a35f-2de16d441e77"
+  },
+  {
+    "coffeName": "Keto Pumpkin Spice Latte",
+    "coffeRepice": "If you're avoiding carbs but still want that fall-spiced jolt of java, try this keto pumpkin spice latte recipe. It’s made with espresso, pumpkin, and spices along with your favorite milk, and a little artificial sweetener.",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/coffeetest-7ec6e.appspot.com/o/coldbrew.jpg?alt=media&token=8128d53c-910e-4072-a35f-2de16d441e77"
+  },
+  {
+    "coffeName": "Vietnamese Iced Coffee",
+    "coffeRepice": "An uplighting combination of coffee and sweetened condensed milk, Vietnamese iced coffee is more than your average cup of joe. It's refreshing and perfectly sweet with a jolt of caffeine, making it a great way to start the day.",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/coffeetest-7ec6e.appspot.com/o/coldbrew.jpg?alt=media&token=8128d53c-910e-4072-a35f-2de16d441e77"
+  },
+  {
     "coffeName": "New Orleans Coffee",
     "coffeRepice": "New Orleans is known for plenty of unique and delicious foods, including its famous hot coffee. You make it with basic drip-ground coffee, plus chicory, a dried herb that gives this brew its signature chocolate-caramel flavor, intensely dark color, and thick consistency.",
     "imageURL": "https://firebasestorage.googleapis.com/v0/b/coffeetest-7ec6e.appspot.com/o/coldbrew.jpg?alt=media&token=8128d53c-910e-4072-a35f-2de16d441e77"
   },
   {
-    "coffeName": "COLD BREW COFFEE",
+    "coffeName": "Vegan Gingerbread Latte",
+    "coffeRepice": "Warm up this winter with a sweet, lightly-spiced gingerbread latte that's like Christmas in a mug. You only need 15 minutes to reproduce the popular coffee shop treat at home. Top it with non-dairy whipped cream, for enjoying in front of the tree.",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/coffeetest-7ec6e.appspot.com/o/coldbrew.jpg?alt=media&token=8128d53c-910e-4072-a35f-2de16d441e77"
+  },
+  {
+    "coffeName": "Cuban Coffee (Cafecito)",
+    "coffeRepice": "Cuban coffee is a sweet, rich, delicious hot beverage. Traditionally served after-dinner, it makes a great, dairy-free alternative to ice cream after a meal. You make it by topping potent shots of espresso with a thick layer of foamy crema made with sugar, instead of milk.",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/coffeetest-7ec6e.appspot.com/o/coldbrew.jpg?alt=media&token=8128d53c-910e-4072-a35f-2de16d441e77"
+  },
+  {
+    "coffeName": "The Perfect Cappuccino",
+    "coffeRepice": "New Orleans is known for plenty of unique and delicious foods, including its famous hot coffee. You make it with basic drip-ground coffee, plus chicory, a dried herb that gives this brew its signature chocolate-caramel flavor, intensely dark color, and thick consistency.",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/coffeetest-7ec6e.appspot.com/o/coldbrew.jpg?alt=media&token=8128d53c-910e-4072-a35f-2de16d441e77"
+  },
+  {
+    "coffeName": "Maple Pecan Latte",
+    "coffeRepice": "A coffee shop favorite during fall and winter, it's easy to make a maple pecan latte at home. You'll start by making the sweetener, and the maple pecan syrup is enough for many lattes. When it's time for a drink, simply mix it with fresh-brewed espresso and steamed milk.",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/coffeetest-7ec6e.appspot.com/o/coldbrew.jpg?alt=media&token=8128d53c-910e-4072-a35f-2de16d441e77"
+  },
+  {
+    "coffeName": "Homemade Frappuccino",
+    "coffeRepice": "Save money at the coffee shop with this foolproof recipe that makes enough creamy, chilled frappuccinos to serve a houseful of holiday guests. Breakfasting solo? Make the recipe ahead and freeze individual portions for an indulgent morning beverage anytime.",
+    "imageURL": "https://firebasestorage.googleapis.com/v0/b/coffeetest-7ec6e.appspot.com/o/coldbrew.jpg?alt=media&token=8128d53c-910e-4072-a35f-2de16d441e77"
+  },
+  {
+    "coffeName": "Cold Brew Coffee",
     "coffeRepice": "Cold Brew Coffee is a smooth, cold beverage prepared by brewing freshly ground coffee in cold water. In the Cold Brew process, time makes up for heat.",
     "imageURL": "https://firebasestorage.googleapis.com/v0/b/coffeetest-7ec6e.appspot.com/o/coldbrew.jpg?alt=media&token=8128d53c-910e-4072-a35f-2de16d441e77"
   },
   {
-    "coffeName": "ESPRESSO",
+    "coffeName": "Espresso",
     "coffeRepice": "A short, strong drink (about 30 ml) served in an espresso cup.",
     "imageURL": "https://firebasestorage.googleapis.com/v0/b/coffeetest-7ec6e.appspot.com/o/esprresso.jpg?alt=media&token=4673c8aa-995a-47ad-ac8c-e40938d4009a"
   },
   {
-    "coffeName": "DRİP COFFEE",
+    "coffeName": "Drip Coffee",
     "coffeRepice": "A short, strong drink (about 30 ml) served in an espresso cup.",
     "imageURL": "https://firebasestorage.googleapis.com/v0/b/coffeetest-7ec6e.appspot.com/o/dripcoffee.jpg?alt=media&token=18fe607c-b501-4163-b99f-0ce2d06ab447"
   },
   {
-    "coffeName": "IRISH COFFEE",
+    "coffeName": "Irısh Coffee",
     "coffeRepice": "Classic coffee coctail where Irish whiskey is mixed with filter coffee and topped with thin layer of gently whipped cream.",
     "imageURL": "https://firebasestorage.googleapis.com/v0/b/coffeetest-7ec6e.appspot.com/o/%C4%B1r%C4%B1shcoffe.jpg?alt=media&token=dd193c8b-12b0-4138-a053-98e42916d859"
   },
   {
-    "coffeName": "LATTE MACCHIATO",
+    "coffeName": "Latte Machiato",
     "coffeRepice": "Like a traditional caffè latte, but with a thicker layer of foam. Often made by pouring an espresso last into the milk (drink size about 300 ml). Served in a latte glass.",
     "imageURL": "https://firebasestorage.googleapis.com/v0/b/coffeetest-7ec6e.appspot.com/o/latte.jpg?alt=media&token=49e69ef1-b153-4471-9155-907920850873"
   },
   {
-    "coffeName": "FRAPPÉ",
+    "coffeName": "Frappe",
     "coffeRepice": "Rich iced coffee made of espresso, milk and ice. Flavoured syrup can be added (about 300 ml). Mixed in a blender and served for example in a latte glass.",
     "imageURL": "https://firebasestorage.googleapis.com/v0/b/coffeetest-7ec6e.appspot.com/o/frappee.jpg?alt=media&token=8ec1e4e5-4225-40ad-9551-171487b159aa"
   },
   {
-    "coffeName": "CAFÈ AU LAIT",
+    "coffeName": "Cafe Au Lait",
     "coffeRepice": "French morning coffee. Made by mixing dark roasted filter coffee (often prepared with French Press) and warm milk. Served in a bowl or a large coffee cup.",
     "imageURL": "https://firebasestorage.googleapis.com/v0/b/coffeetest-7ec6e.appspot.com/o/cafeaula%C4%B1t.jpg?alt=media&token=bd1a6aaf-0a6d-43b5-9eea-5a7f709f6b8b"
   },
   {
-    "coffeName": "ICED LATTE",
+    "coffeName": "Iced Latte",
     "coffeRepice": "Ice, cold milk and an espresso in a latte glass (about 300ml), often mixed with some sugar or flavoured syrup. Served in a latte glass.",
     "imageURL": "https://firebasestorage.googleapis.com/v0/b/coffeetest-7ec6e.appspot.com/o/icedlatte.jpg?alt=media&token=b920cbfe-3dff-4531-9b08-0316fe1d5dbf"
   },
   {
-    "coffeName": "ICEDE MOCHA",
+    "coffeName": "Iced Mocha",
     "coffeRepice": "Cold Caffe mocha. Prepared like iced latte but garnished and flavoured like caffee mocha (about 300ml). Served in latte glass.",
     "imageURL": "https://firebasestorage.googleapis.com/v0/b/coffeetest-7ec6e.appspot.com/o/icedlatte.jpg?alt=media&token=b920cbfe-3dff-4531-9b08-0316fe1d5dbf"
   }
