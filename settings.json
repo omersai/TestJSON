@@ -1,42 +1,42 @@
 [{
   "iconName" : "bell",
-  "Title" : "Bildirimler",
-  "Desc" : ""
-  "Status" : true,
+  "title" : "Bildirimler",
+  "desc" : ""
+  "status" : true,
   "control" : "switch"
 },
 {
   "iconName" : "profile",
-  "Title" : "Profil",
-  "Desc" : "Giriş Yap"
-  "Status" : true,
+  "title" : "Profil",
+  "desc" : "Giriş Yap"
+  "status" : true,
   "control" : ""
 },
 {
   "iconName" : "language",
-  "Title" : "Uygulama Dili",
-  "Desc" : "Türkçe"
-  "Status" : true,
+  "title" : "Uygulama Dili",
+  "desc" : "Türkçe"
+  "status" : true,
   "control" : ""
 },
 {
   "iconName" : "theme",
-  "Title" : "Koyu Mod",
-  "Desc" : ""
-  "Status" : true,
+  "title" : "Koyu Mod",
+  "desc" : ""
+  "status" : true,
   "control" : "switch"
 },
  {
   "iconName" : "info",
-  "Title" : "Uygulama Hakkında",
-  "Desc" : ""
-  "Status" : true,
+  "title" : "Uygulama Hakkında",
+  "desc" : ""
+  "status" : true,
   "control" : ""
 }
  ,{
   "iconName" : "logout",
-  "Title" : "Çıkış Yap",
-  "Desc" : ""
-  "Status" : false,
+  "title" : "Çıkış Yap",
+  "desc" : ""
+  "status" : false,
   "control" : ""
 }]
