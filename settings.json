@@ -1,7 +1,7 @@
 [{
   "iconName" : "bell",
   "title" : "Bildirimler",
-  "desc" : ""
+  "desc" : "",
   "status" : true,
   "control" : "switch"
 },
@@ -15,28 +15,28 @@
 {
   "iconName" : "language",
   "title" : "Uygulama Dili",
-  "desc" : "Türkçe"
+  "desc" : "Türkçe",
   "status" : true,
   "control" : ""
 },
 {
   "iconName" : "theme",
   "title" : "Koyu Mod",
-  "desc" : ""
+  "desc" : "",
   "status" : true,
   "control" : "switch"
 },
  {
   "iconName" : "info",
   "title" : "Uygulama Hakkında",
-  "desc" : ""
+  "desc" : "",
   "status" : true,
   "control" : ""
 }
  ,{
   "iconName" : "logout",
   "title" : "Çıkış Yap",
-  "desc" : ""
+  "desc" : "",
   "status" : false,
   "control" : ""
 }]
