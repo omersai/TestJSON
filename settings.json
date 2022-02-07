@@ -8,7 +8,7 @@
 {
   "iconName" : "profile",
   "title" : "Profil",
-  "desc" : "Giriş Yap"
+  "desc" : "Giriş Yap",
   "status" : true,
   "control" : ""
 },
