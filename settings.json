@@ -1,0 +1,42 @@
+[{
+  "iconName" : "bell",
+  "Title" : "Bildirimler",
+  "Desc" : ""
+  "Status" : true,
+  "control" : "switch"
+},
+{
+  "iconName" : "profile",
+  "Title" : "Profil",
+  "Desc" : "Giriş Yap"
+  "Status" : true,
+  "control" : ""
+},
+{
+  "iconName" : "language",
+  "Title" : "Uygulama Dili",
+  "Desc" : "Türkçe"
+  "Status" : true,
+  "control" : ""
+},
+{
+  "iconName" : "theme",
+  "Title" : "Koyu Mod",
+  "Desc" : ""
+  "Status" : true,
+  "control" : "switch"
+},
+ {
+  "iconName" : "info",
+  "Title" : "Uygulama Hakkında",
+  "Desc" : ""
+  "Status" : true,
+  "control" : ""
+}
+ ,{
+  "iconName" : "logout",
+  "Title" : "Çıkış Yap",
+  "Desc" : ""
+  "Status" : false,
+  "control" : ""
+}]
