@@ -1,0 +1,10 @@
+[{
+        "MenuName" : "Başkan",
+        "FullUrl" : "/baskan/ozgecmis",
+        "Text": "Başkan Özgeçmiş Hakkında"
+    },
+    {
+        "MenuName" : "Haberler",
+        "FullUrl" : "/haberler/10",
+        "Text": "Başkan Milli Eğitim Müdürlüğünde Ziyaretlerde Bulundu"
+    }]
