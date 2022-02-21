@@ -1,0 +1,46 @@
+[
+    {
+        "Id": 1,
+        "refModuleId": 81,
+        "refLanguageId": 1,
+        "EJournalType": 1,
+        "EJournalTypeString": "Dergi",
+        "Date": "20.02.2020",
+        "Title": "7.SAYI-OCAK",
+        "MediaUrl": "https://media.kentcepte.com/A4442166GES/original/ejournal/76a4952a-fe5b-4832-b866-4d10e77fcd5b.jpg",
+        "TotalCount": 4
+    },
+    {
+        "Id": 2,
+        "refModuleId": 81,
+        "refLanguageId": 1,
+        "EJournalType": 1,
+        "EJournalTypeString": "Dergi",
+        "Date": "20.02.2021",
+        "Title": "8.SAYI-SUBAT",
+        "MediaUrl": "https://media.kentcepte.com/A4442166GES/original/ejournal/904ed952-74a3-482d-9624-4872aa060a64.jpg",
+        "TotalCount": 4
+    },
+    {
+        "Id": 6,
+        "refModuleId": 81,
+        "refLanguageId": 1,
+        "EJournalType": 2,
+        "EJournalTypeString": "Gazete",
+        "Date": "20.02.2022",
+        "Title": "gazete",
+        "MediaUrl": "https://media.kentcepte.com/A4442166GES/original/ejournal/a611eefd-5a60-4581-bd1c-403f7753cc4c.png",
+        "TotalCount": 4
+    },
+    {
+        "Id": 7,
+        "refModuleId": 81,
+        "refLanguageId": 1,
+        "EJournalType": 1,
+        "EJournalTypeString": "Dergi",
+        "Date": "21.02.2022",
+        "Title": "sıralama",
+        "MediaUrl": "https://media.kentcepte.com/A4442166GES/original/ejournal/a377ac5e-58fb-44e1-954c-520fa2f89b93.png",
+        "TotalCount": 4
+    }
+]
