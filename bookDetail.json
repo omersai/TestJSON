@@ -1,0 +1,18 @@
+{
+    "Id": 1,
+    "refModuleId": 81,
+    "refLanguageId": 1,
+    "EJournalType": 1,
+    "EJournalTypeString": "Dergi",
+    "Date": "20.02.2020",
+    "Title": "7.SAYI-OCAK",
+    "MediaUrl": "https://media.kentcepte.com/A4442166GES/original/ejournal/76a4952a-fe5b-4832-b866-4d10e77fcd5b.jpg",
+    "Medias": [
+        "https://media.kentcepte.com/A4442166GES/original/ejournal/90922e0f-10b0-4793-8afd-c32f1cf3013a.png",
+        "https://media.kentcepte.com/A4442166GES/original/ejournal/afc22ed3-a746-4345-9e9e-81f70e31f871.png",
+        "https://media.kentcepte.com/A4442166GES/original/ejournal/9aa57838-2278-442b-8b3c-fc258a6ae4c8.png",
+        "https://media.kentcepte.com/A4442166GES/original/ejournal/64348587-fc95-4e24-8e08-c6e71ac82ed3.png",
+        "https://media.kentcepte.com/A4442166GES/original/ejournal/c1010f08-1bd8-4050-b274-926c87b31f7e.png",
+        "https://media.kentcepte.com/A4442166GES/original/ejournal/263fc585-05b0-4090-9846-57ad35e2a040.png"
+    ]
+}
