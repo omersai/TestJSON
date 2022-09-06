@@ -34,7 +34,7 @@
                     "AppModules": null,
                     "Id": 8
                 },
-                "child": [
+                "child": 
                     {
                         "Id": 22,
                         "PartialId": 5,
@@ -195,6 +195,6 @@
                         },
                         "child": []
                     }
-                ]
+                
             }
     }
