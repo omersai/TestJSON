@@ -3,7 +3,7 @@
         "Name": "MenuInside",
         "Text": "Hızlı erişim Menusü",
         "Status": 1,
-        "WebPartialMenuViewModel": [
+        "WebPartialMenuViewModel": 
             {
                 "Id": 21,
                 "PartialId": 5,
@@ -197,5 +197,4 @@
                     }
                 ]
             }
-        ]
     }
