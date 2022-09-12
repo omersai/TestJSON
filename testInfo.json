@@ -1,14 +1,37 @@
 [
    {
-     "text": "Ömer",
+     "id":0,
+     "text": "Haberler",
+     "route": "haberler",
+     "target": false,
+     "status": true
    },
   {
-     "text": "Ahmet",
+    "id":1,
+     "text": "Etkinlikler",
+     "route": "etkinlikler",
+     "target": false,
+     "status": true
    },
   {
-     "text": "Sibel",
+     "id":2,
+     "text": "Duyurular",
+     "route": "duyurular",
+     "target": false,
+     "status": false
    },
   {
-     "text": "Deniz",
+     "id":3,
+     "text": "Dilek Şikayet",
+     "route": "dilek-sikayet",
+     "target": false,
+     "status": true
+   }
+   {
+     "id":4,
+     "text": "E-Belediye",
+     "route": "https://www.google.com",
+     "target": true,
+   "status": true
    }
 ]
