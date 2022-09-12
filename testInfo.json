@@ -1,41 +1,4 @@
 {
-        "Id": 5,
-        "Name": "MenuInside",
-        "Text": "Hızlı erişim Menusü",
-        "Status": 1,
-        "WebPartialMenuViewModel": 
-            {
-                "Id": 21,
-                "PartialId": 5,
-                "MenuId": 8,
-                "Priority": 1,
-                "ParentId": 0,
-                "LeftMenuStatus": 0,
-                "Icon": null,
-                "FrontIcon": null,
-                "Color": null,
-                "Status": 1,
-                "WebMenu": {
-                    "Text": "HIZLI ERİŞİM",
-                    "Controller": "HizliErisim",
-                    "Action": "Index",
-                    "PrefixRoute": "/hizli-erisim",
-                    "Route": null,
-                    "FileUrl": null,
-                    "BodyMenuPartialKey": null,
-                    "FileText": null,
-                    "SourceId": 8,
-                    "refLanguageId": 1,
-                    "TargetBlank": false,
-                    "Status": 1,
-                    "ModuleId": 0,
-                    "CanAddSubmenu": 1,
-                    "Detail": null,
-                    "AppModules": null,
-                    "Id": 8
-                },
-                "child": 
-                    {
                         "Id": 22,
                         "PartialId": 5,
                         "MenuId": 22,
@@ -195,6 +158,3 @@
                         },
                         "child": []
                     }
-                
-            }
-    }
