@@ -1,11 +1,16 @@
-[{      "id":0,
-        "MenuName" : "Başkan",
-        "FullUrl" : "/baskan/ozgecmis",
-        "Text": "Başkan Özgeçmiş Hakkında"
+[
+    {
+    "id": 1,
+    "title": "Sakin bir yerde gün batımını izle ve hayal kur !",
+    "bgHexColor": "#6F9CCE",
+    "bgImage": "",
+    "status": true
     },
     {
-            "id":1,
-        "MenuName" : "Haberler",
-        "FullUrl" : "/haberler/10",
-        "Text": "Başkan Milli Eğitim Müdürlüğünde Ziyaretlerde Bulundu"
-    }]
+    "id": 2,
+    "title": "Üç defa derin bir nefes al ve kendine güzel bir söz söyle.",
+    "bgHexColor": "#6F9CCE",
+    "bgImage": "",
+    "status": true
+    }
+]
